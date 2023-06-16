@@ -1,5 +1,5 @@
-### Hi there 👋
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
+  <img src="https://devathon.com/wp-content/uploads/2020/01/react-js-developers-devathon-2-1.png" width="300" align="left">
+  <h1>Привет!<img src="https://s12.gifyu.com/images/SQHG6.gif" width="35"></h1>
+  
 </div>
