@@ -7,12 +7,12 @@
 </div>
 <div>
 <br>
-  <p>Меня зовут <b>Данил</b>. Я веб-разработчик, живу и работаю в <b>Москве</b>🏙️.Развиваюсь в сфере frontend уже год. Мой стек - 
+  <p>Меня зовут <b>Данил</b>. Я веб-разработчик, живу и работаю в <b>Москве</b>🏙️Развиваюсь в сфере frontend уже год. Мой стек - 
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
     <br><br> Сейчас я нахожусь <b>в поиске работы или стажировки</b>, где смогу применить свои навыки и продолжить расти профессионально.</p>
 <br>
   <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Peper0niSpray&theme=discord&column=-1&no-frame=true&no-bg=true&title=Followers,Commit,Repositories">
+  <img src="https://github-profile-trophy.vercel.app/?username=chapych&theme=discord&column=-1&no-frame=true&no-bg=true&title=Followers,Commit,Repositories">
 </div>
 </div>
 <br>
