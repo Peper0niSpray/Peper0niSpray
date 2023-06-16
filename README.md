@@ -31,7 +31,7 @@
   <a href="https://hh.ru/resume/dce6c561ff058943e00039ed1f363948437079?customDomain=1"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" width="78"></a>
 <br>
 <img src="https://img.alicdn.com/imgextra/i4/6000000003119/O1CN01XwOE5b1YuXpzFNGwq_!!6000000003119-0-tbvideo.jpg" width="298" height="0">
-<img src="https://chatdoma.ru/wa-data/public/shop/img/source.gif" width="20">
+<img src="https://chatdoma.ru/wa-data/public/shop/img/source.gif" width="22">
 </div>
 <br>
 <div align="center">
@@ -63,5 +63,6 @@
 <br>
 <br>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Peper0niSpray&color=blueviolet&label=PROFILE+VIEWS">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGg1dGxjZmhlcm1qcHI1azFxNnQzdDF4MWppaHNxeWh2eno3ZW8xZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="250">  <br>
+  <img src="https://komarev.com/ghpvc/?username=Peper0niSpray&color=blueviolet&label=PROFILE+VIEWS">
 </div>
