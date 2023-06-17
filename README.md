@@ -61,6 +61,8 @@
 <img src="https://img.shields.io/badge/git-%23121011.svg?style=for-the-badge&logo=git&logoColor=white">
 </div>
 <br>
+    <p>Уровень английского 🅰️2️⃣. Читаю тех.документацию, периодически используя Google Translate.</p>
+<br>
 <br>
 <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGg1dGxjZmhlcm1qcHI1azFxNnQzdDF4MWppaHNxeWh2eno3ZW8xZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="250">  <br>
